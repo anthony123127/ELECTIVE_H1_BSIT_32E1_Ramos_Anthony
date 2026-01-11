@@ -1,0 +1,6 @@
+@ELECTIVE_H1_BSIT_32E1_Ramos_Anthony_HostAddress = http://localhost:5115
+
+GET {{ELECTIVE_H1_BSIT_32E1_Ramos_Anthony_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
